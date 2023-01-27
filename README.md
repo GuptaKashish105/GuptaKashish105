@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-kashish&label=Profile%20views&color=0e75b6&style=flat" alt="coder-kashish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-kashish&label=Profile%20views&color=0e75b6&style=flat" alt="Kashish" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coderkashish" target="blank"><img src="https://img.shields.io/twitter/follow/coderkashish?logo=twitter&style=for-the-badge" alt="coderkashish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Gup_Kashish" target="blank"><img src="https://img.shields.io/twitter/follow/Gup_Kashish?logo=twitter&style=for-the-badge" alt="Kashish" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, VueJS and nextJS**
 
